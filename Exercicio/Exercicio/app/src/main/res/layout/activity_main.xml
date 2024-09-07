@@ -87,4 +87,10 @@
         android:layout_marginBottom="180dp"
         android:layout_marginTop="-120dp"/>
 
+    <EditText
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:drawableStart="@drawable/google"
+
+
 </LinearLayout>
